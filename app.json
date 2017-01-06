@@ -10,5 +10,7 @@
   "addons": [
 
   ],
-  "buildpacks": ["java"]
+  "buildpacks": [{
+      "url": "heroku/java"
+    }]
 }

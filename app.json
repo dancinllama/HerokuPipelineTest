@@ -10,5 +10,5 @@
   "addons": [
 
   ],
-  "image": "heroku/nodejs"
+  "buildpacks": ["java"]
 }

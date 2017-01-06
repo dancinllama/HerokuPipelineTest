@@ -3,5 +3,5 @@
   "scripts": {
     "postdeploy": ""
   },
-  "buildpacks":[{"url:"https://github.com/heroku/salesforce-buildpack"}]
+  "buildpacks":[{"url":"https://github.com/heroku/salesforce-buildpack"}]
 }
